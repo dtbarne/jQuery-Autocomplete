@@ -9,15 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/devbridge/jQuery-Autocomplete.git"
-  },
-  "dependencies": {
-    "@types/jquery": "^2.0.32",
-    "jquery": ">=1.7"
-  },
-  "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-contrib-uglify": "^1.0.1"
+    "url": "git://github.com/dtbarne/jQuery-Autocomplete.git"
   },
   "files": [
     "dist/",
