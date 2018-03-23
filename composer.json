@@ -1,0 +1,7 @@
+{
+    "name": "devbridge/jQuery-Autocomplete",
+    "description": "Forked so I could add a composer.json",
+    "keywords": ["jquery", "autocomplete"],
+    "license": "MIT",
+    "type": "project"
+}
