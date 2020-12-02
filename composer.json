@@ -1,5 +1,5 @@
 {
-    "name": "dtbarne/jQuery-Autocomplete",
+    "name": "mobilefuse/jquery-autocomplete",
     "description": "Forked so I could add a composer.json",
     "keywords": ["jquery", "autocomplete"],
     "license": "MIT",
